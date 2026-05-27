@@ -1,0 +1,6 @@
+{
+  "name": "Bordeadoras y Tanzas: Guía de Corte",
+  "description": "Guía interactiva y asesor inteligente impulsado por IA para la correcta configuración, selección de tanza (cuadrada vs redonda) y mantenimiento de bordeadoras de césped.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
